@@ -9,7 +9,7 @@ int main()
 
     ll n;
     cin >> n;
-    string str1 = "";
+    string str1;
     if (n <= 3 && n != 1)
     {
         cout << "NO SOLUTION";

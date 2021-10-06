@@ -7,7 +7,6 @@ int main()
     ios_base::sync_with_stdio(0);
     cin.tie(0);
 
-    string str;
     ll t, y, x;
     cin >> t;
     for (int i = 0; i < t; i++)

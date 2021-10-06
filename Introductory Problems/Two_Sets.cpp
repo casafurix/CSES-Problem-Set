@@ -37,7 +37,8 @@ int main()
         cout << s1.size() << "\n";
         for (int z : s1)
             cout << z << " ";
-        cout << s2.size() << "\n";
+        cout << "\n"
+             << s2.size() << "\n";
         for (int z : s2)
             cout << z << " ";
     }
